@@ -46,7 +46,9 @@ The i2i Store is licensed under the [License](LICENSE).
 Follow us on 
 
 [Twitter](https://twitter.com/i2i_infotech)
+
 [FaceBook](https://www.facebook.com/Idea.to.implementation.infotech)
-[Instagram]https://www.instagram.com/i2i_infotech)
+
+[Instagram](https://www.instagram.com/i2i_infotech)
 
 Website [i2i-info.com](https://www.i2i-info.com)
