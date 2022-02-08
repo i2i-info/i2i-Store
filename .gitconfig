@@ -1,0 +1,7 @@
+# ~/.gitconfig
+ 
+[includeIf "gitdir:~/"] # include for all .git projects under personnal/ 
+path = ~/.gitconfig-pers
+
+[core]
+excludesfile = ~/.gitignore      # valid everywhere

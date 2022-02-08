@@ -1,0 +1,16 @@
+# ~/personal/.gitconfig.pers
+ 
+[user]
+email = info@i2i-info.com
+name = Admin
+ 
+[github]
+user = "info@i2i-info.com"
+ 
+[core]
+sshCommand = "ssh -i ~/.ssh/git_info_i2i_infotech"
+
+# cat ~/.ssh/git_info_i2i_infotech.pub | clip
+# git remote add org git@github.com:i2i-info/i2i-Store.git
+# git branch -M main
+# git push -u org main

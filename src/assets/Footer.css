@@ -1,0 +1,28 @@
+.Footer_info{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    height: 5rem;
+    justify-content: center;
+}
+.Footer_title{
+    color: white;
+   font-weight: 400;
+   font-size: 1rem;
+   margin: .0.1rem;
+   line-height: 1.25;
+   text-transform: none;
+}
+.Footer_name{
+    color: #ab7a5f;
+    margin-left: 0.5rem;
+}
+.Footer_rights{
+    color: white;
+   font-weight: 400;
+   font-size: 1rem;
+   margin: .0.1rem;
+   line-height: 1.25;
+   text-transform: none;
+   margin-left: 0.5rem;
+}

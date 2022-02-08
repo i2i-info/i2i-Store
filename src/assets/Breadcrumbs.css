@@ -1,0 +1,28 @@
+.bread_back {
+  background-color: #F6F3DC;
+}
+.breadcrumbs {
+ background-color: #F6F3DC;
+  width: 100%;
+  min-height: 20vh;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  color: #453227 !important;
+}
+.link_home {
+  text-decoration: none !important;
+}
+.breadcrumb-item a,
+.breadcrumb-item::before {
+  color: #FFBC41;
+  /* padding: 0.5rem; */
+  transition: all 0.3s linear;
+  font-weight: 700;
+  font-size: 2rem;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+  color: #FFBC41;
+
+  content: var(--bs-breadcrumb-divider, "/");
+}

@@ -1,0 +1,25 @@
+.Home_offcanvas{
+    color: #FFBC41;
+}
+.About_offcanvas{
+    color: #FFBC41;
+}
+.Products_offcanvas{
+    color: #FFBC41;
+}
+.icon_offcanvas{
+    color: #FFBC41;
+}
+.login_icon{
+    color: #FFBC41;
+}
+@media (max-width: 1440px){
+    .offcanvas_icon{
+        display: flex;
+        
+        /* justify-content: space-between; */
+    }
+}
+.login_offcanvas{
+    margin-left: 1rem;
+}

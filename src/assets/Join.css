@@ -1,0 +1,54 @@
+.main_blog {
+  margin: 15rem 0px;
+}
+.Blog_join {
+  text-align: start;
+}
+.join_title {
+  font-weight: 700;
+  line-height: 1;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+}
+.join_end {
+  margin-top: 2rem !important;
+  display: flex;
+  align-items: center;
+}
+.join_p { 
+  line-height: 2;
+  max-width: 30em;
+  color: #617d98;
+  text-align: start;
+  font-family: serif;
+}
+
+.Email_main {
+  border: none !important;
+  border-color: black !important;
+}
+.Email_form {
+  display: flex;
+}
+.Email_box {
+  /* border-right: none !important; */
+  color: #324d67 !important;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  border-color: black !important;
+  width: auto !important;
+  box-shadow: none !important;
+}
+.sub_button {
+  background-color: #FFBC41 !important;
+  text-transform: capitalize !important;
+  letter-spacing: 0.1rem;
+  transition: all 0.3s linear !important;
+  color: #222 !important;
+  border-color: black !important;
+  margin-left: 10px;
+}
+.sub_button:hover{
+  color: white !important;
+  background-color: black !important;
+}
