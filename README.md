@@ -47,4 +47,4 @@ The i2i Store is licensed under the [License](LICENSE).
 
 Follow us on [Twitter](https://twitter.com/i2i_infotech)
 
-Website [coingrig.com](https://www.i2i-info.com)
+Website [i2i-info.com](https://www.i2i-info.com)
