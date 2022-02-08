@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Desk from "../image/desk.jpeg";
+import Desk from "../image/Desk.jpeg";
 import "../assets/About.css";
 import Layout from "../components/Layout";
 import Breadcrumbs from "../components/Breadcumbs";
